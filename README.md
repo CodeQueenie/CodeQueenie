@@ -48,11 +48,13 @@ Concord Wealth Management, Waltham, MA
 01/2023  
 - Front-end development using HTML, CSS, and JavaScript.
 - Created interactive educational games (Anagram Hunt, Math Facts Practice).
+- For more details, [Check it out! 👉](https://github.com/CodeQueenie/Play2Learn-Website)
 
 **New Games and Implementation of Libraries**  
 06/2022  
 - Integrated Bootstrap for responsive layouts and Vue.js for the Anagram Hunt game.
-- Expertise in front-end frameworks, modern web technologies, and JavaScript frameworks.
+- Proficient in front-end frameworks, modern web technologies, and JavaScript frameworks. 
+- For more details, [Check it out! 👉](https://github.com/CodeQueenie/Play2Learn-with-New-Games-and-Implementation-of-Libraries)
 
 **Implementing the Games with Python**  
 12/2023  
