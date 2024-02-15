@@ -1,8 +1,8 @@
-## Nicole LeGuern - Full Stack Software Engineer 🌟
+## Nicole LeGuern - Software Engineer 🌟
 
 ![Alt Text](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611jmlj3g3euiy1dj2kzvme84suyqp0d2wk2h9o5a8z&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-Eager and dedicated Full Stack Software Engineer with a strong background in client relations, team leadership, and analytical problem-solving. Excited to bring enthusiasm and commitment to success in software engineering. Proven project management and organizational skills with a record of success in various software development projects.
+Eager and dedicated aspiring Software Engineer with a strong background in client relations, team leadership, and analytical problem-solving. Excited to bring enthusiasm and commitment to success in software engineering. Proven project management and organizational skills with a record of success in various software development projects.
 
 ### 📬 Contact Information:
 - 🌐 LinkedIn: [Nicole LeGuern](https://www.linkedin.com/in/nicole-leguern-190389119)
