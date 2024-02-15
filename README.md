@@ -60,6 +60,7 @@ Concord Wealth Management, Waltham, MA
 12/2023  
 - Created console versions of games using Python.
 - Backend programming proficiency demonstrated.
+- For more details, [Check it out! 👉](https://github.com/CodeQueenie/Play2Learn---Implementing-the-Games-with-Python)
 
 ---
 
