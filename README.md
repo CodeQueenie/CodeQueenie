@@ -1,8 +1,8 @@
-## Nicole LeGuern - Software Engineer 🌟
+## Nicole LeGuern - Full Stack Developer Engineer 🌟
 
 ![Alt Text](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611jmlj3g3euiy1dj2kzvme84suyqp0d2wk2h9o5a8z&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-Eager and dedicated aspiring Software Engineer with a strong background in client relations, team leadership, and analytical problem-solving. Excited to bring enthusiasm and commitment to success in software engineering. Proven project management and organizational skills with a record of success in various software development projects.
+Eager and dedicated aspiring Engineer with a strong background in client relations, team leadership, and analytical problem-solving. Excited to bring enthusiasm and commitment to success in software engineering. Proven project management and organizational skills with a record of success in various software development projects.
 
 ### 📬 Contact Information:
 - 🌐 LinkedIn: [Nicole LeGuern](https://www.linkedin.com/in/nicole-leguern-190389119)
@@ -16,7 +16,9 @@ Eager and dedicated aspiring Software Engineer with a strong background in clien
 
 "In coding, I find my playground with limitless opportunities to create and explore." 🚀
 
-In the cherished moments of leisure, I find joy in immersing myself into the world of books 📚 and exploring the great outdoors 🌿. A nature enthusiast at heart, I relish the experience of connecting with the environment and finding peace away from the hustle and bustle of daily life. My passion for technology drives my professional journey, but it’s the simplicity of reading and the timeless beauty of nature that ground me. Eager to learn and continuously evolve, I strive to keep up-to-date with the latest technological trends, believing that there's always something new to discover and learn in the ever-changing tech landscape.
+In the cherished moments of leisure, I find joy in immersing myself into the world of books 📚 and exploring the great outdoors 🌿. A nature enthusiast at heart, I relish the experience of connecting with the environment and finding peace away from the hustle and bustle of daily life. My passion for technology drives my professional journey, but it’s the simplicity of reading and the timeless beauty of nature that ground me. Eager to learn and continuously evolve, I strive to keep up-to-date with the latest technological trends, believing that there's always something new to discover and learn in the ever-changing tech landscape. 
+
+Every challenege is an opportunity for growth!
 
 ---
 
@@ -66,7 +68,7 @@ Concord Wealth Management, Waltham, MA
 
 ### 🌱 SUMMARY
 
-Highly experienced in client relations, team leadership, and customer service with 20 years of experience. Seeking an entry-level role or apprenticeship in software engineering to utilize problem-solving skills and an analytical mindset in a team environment. A background in finance and insurance contributes to an analytical approach to tasks. Eager to bring enthusiasm and commitment to success in software engineering.
+Fast-Learning Full-Stack Developer with a passion for crafting innovative solutions. Recent graduate (98%!) from Salem State University's intensive 18-month program, proficient in Python, Javascript, SQL, C++, HTML, frameworks (Vue.js, Node.js, Django). Eager to leverage problem-solving and collaboration skills from 20 years of client relations to excel in an Agile environment.
 
 ---
 
@@ -88,9 +90,8 @@ Sturbridge Little League
 
 ### 📚 EDUCATION
 
-**Self-Paced Courses, Full Stack Software Developer**  
-Ed2Go, Online Learning Platform  
+**Salem State University, Full Stack Software Developer**  
 2022 - 2024  
-- Honed abilities in front-end, back-end, and full-stack development through challenging exercises and hands-on projects.
+- Honed abilities in front-end, back-end, and full-stack development through challenging exercises and hands-on projects. 98% final grade!
 
 ---
