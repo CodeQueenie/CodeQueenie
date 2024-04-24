@@ -46,23 +46,32 @@ Concord Wealth Management, Waltham, MA
 
 ### 💡 PROJECTS
 
-**Play2Learn Website**  
-01/2023  
+**Play2Learn: Website**  
+12/2022  
 - Front-end development using HTML, CSS, and JavaScript.
 - Created interactive educational games (Anagram Hunt, Math Facts Practice).
 - For more details, [Check it out! 👉](https://github.com/CodeQueenie/Play2Learn-Website)
 
-**New Games and Implementation of Libraries**  
-06/2022  
+**Play2Learn: New Games and Implementation of Libraries**  
+04/2023  
 - Integrated Bootstrap for responsive layouts and Vue.js for the Anagram Hunt game.
 - Proficient in front-end frameworks, modern web technologies, and JavaScript frameworks. 
 - For more details, [Check it out! 👉](https://github.com/CodeQueenie/Play2Learn-with-New-Games-and-Implementation-of-Libraries)
 
-**Implementing the Games with Python**  
-12/2023  
+**Play2Learn Games: Implementing the Games with Python**  
+08/2023  
 - Created console versions of games using Python.
 - Backend programming proficiency demonstrated.
 - For more details, [Check it out! 👉](https://github.com/CodeQueenie/Play2Learn---Implementing-the-Games-with-Python)
+
+**Play2Learn: Full Stack Web Application with Django and Vue.js**  
+01/2024  
+- Created an interactive full-stack web application using Django backend and Vue.js front-end.
+- Implemented user authentication, game playing functionalities, progress tracking, leaderboards, account 
+  management, and reviews on the website.
+- Leveraged HTML, CSS, JavaScript, Python, Django, Vue.js, and Bootstrap for project development.
+- Employed a PostgreSQL database for data storage and opted for a development/debug mode setup.
+- For more details, [Check it out! 👉](https://github.com/CodeQueenie/Play2Learn-Full-Stack-Website-Django-Vue)
 
 ---
 
