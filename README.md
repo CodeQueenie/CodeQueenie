@@ -22,37 +22,15 @@ Every challenege is an opportunity for growth!
 
 ---
 
-### 🛠 EXPERIENCE
-
-**Production Supervisor**  
-United Parcel Service, Shrewsbury, MA  
-11/2022 - Present  
-- Shipping & receiving and supply chain management.
-- Successful team management, daily operations oversight, and achievement of production targets.
-
-**Client Relationship Manager**  
-Finivi Financial Advisors, Marlborough, MA  
-06/2019 - 06/2020  
-- Established and maintained client relationships, managed sales processes, and maximized business opportunities.
-- Strong communication, project management, and strategic thinking skills.
-
-**Advisor**  
-Concord Wealth Management, Waltham, MA  
-05/2017 - 05/2019  
-- Analyzing data, resolving client issues, and developing growth plans.
-- Problem-solving and analytical abilities demonstrated.
-
----
-
 ### 💡 PROJECTS
 
 **Play2Learn: Website**  
 12/2022  
 - Front-end development using HTML, CSS, and JavaScript.
-- Created interactive educational games (Anagram Hunt, Math Facts Practice).
+- Created interactive educational game - Math Facts Practice.
 - For more details, [Check it out! 👉](https://github.com/CodeQueenie/Play2Learn-Website)
 
-**Play2Learn: New Games and Implementation of Libraries**  
+**Play2Learn: New Game and Implementation of Libraries**  
 04/2023  
 - Integrated Bootstrap for responsive layouts and Vue.js for the Anagram Hunt game.
 - Proficient in front-end frameworks, modern web technologies, and JavaScript frameworks. 
