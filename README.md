@@ -18,8 +18,6 @@ Eager and dedicated aspiring Engineer with a strong background in client relatio
 
 In the cherished moments of leisure, I find joy in immersing myself into the world of books 📚 and exploring the great outdoors 🌿. A nature enthusiast at heart, I relish the experience of connecting with the environment and finding peace away from the hustle and bustle of daily life. My passion for technology drives my professional journey, but it’s the simplicity of reading and the timeless beauty of nature that ground me. Eager to learn and continuously evolve, I strive to keep up-to-date with the latest technological trends, believing that there's always something new to discover and learn in the ever-changing tech landscape. 
 
-Every challenege is an opportunity for growth!
-
 ---
 
 ### 💡 PROJECTS
