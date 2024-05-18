@@ -1,8 +1,8 @@
-## Nicole LeGuern - Full Stack Developer Engineer 🌟
+## Nicole LeGuern - Driven Full-Stack Developer | Business Strategist | Award-Winning Sales and Client Relations Leader 🌟
 
 ![Alt Text](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611jmlj3g3euiy1dj2kzvme84suyqp0d2wk2h9o5a8z&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-Eager and dedicated aspiring Engineer with a strong background in client relations, team leadership, and analytical problem-solving. Excited to bring enthusiasm and commitment to success in software engineering. Proven project management and organizational skills with a record of success in various software development projects.
+I'm Nicole, freshly graduated from Salem State University with top honors and equipped with a multi toolkit in Python, JavaScript, SQL, HTML, CSS and more. Ready to tackle real-world software development challenges, I bring a proven track record of success in business growth, client relations, and technical problem-solving.
 
 ### 📬 Contact Information:
 - 🌐 LinkedIn: [Nicole LeGuern](https://www.linkedin.com/in/nicole-leguern-190389119)
@@ -14,13 +14,15 @@ Eager and dedicated aspiring Engineer with a strong background in client relatio
 
 ### ✨ About Me
 
-"In coding, I find my playground with limitless opportunities to create and explore." 🚀
+I see coding not just as a career but as a way to make a real impact. I love creating solutions that streamline processes and improve experiences. Beyond coding, I'm passionate about health and wellness, an advocate for environmental and oceanic conservation, and an enthusiast of all things nature and outdoors. 🌿🏞️ I find balance in life through books 📚, culinary explorations 🍲, and being active in sports and outdoor adventures.
 
-In the cherished moments of leisure, I find joy in immersing myself into the world of books 📚 and exploring the great outdoors 🌿. A nature enthusiast at heart, I relish the experience of connecting with the environment and finding peace away from the hustle and bustle of daily life. My passion for technology drives my professional journey, but it’s the simplicity of reading and the timeless beauty of nature that ground me. Eager to learn and continuously evolve, I strive to keep up-to-date with the latest technological trends, believing that there's always something new to discover and learn in the ever-changing tech landscape. 
+Let’s connect to share insights, collaborate on projects, or just chat about life's passions!
 
 ---
 
 ### 💡 PROJECTS
+Play2Learn Series
+A collection of educational games designed to make learning fun and engaging:
 
 **Play2Learn: Website**  
 12/2022  
@@ -51,32 +53,33 @@ In the cherished moments of leisure, I find joy in immersing myself into the wor
 
 ---
 
-### 🌱 SUMMARY
-
-Fast-Learning Full-Stack Developer with a passion for crafting innovative solutions. Recent graduate (98%!) from Salem State University's intensive 18-month program, proficient in Python, Javascript, SQL, C++, HTML, frameworks (Vue.js, Node.js, Django). Eager to leverage problem-solving and collaboration skills from 20 years of client relations to excel in an Agile environment.
+### 🌱 Fast Facts
+- A fast-learning developer who graduated with a 98% from Salem State University's intensive program. My 20+ years in client relations have honed my ability to manage projects and people effectively, ready to excel in an Agile development environment.
 
 ---
 
 ### 🔧 SKILLS
 
-- Coding: JavaScript, CSS, HTML, Python, Bootstrap, Django, WordPress, Vue, SQL, React
-- Software: Salesforce, GSuite, Microsoft Suite, ADP, POS
+- Coding Languages: JavaScript, Python, SQL, C++
+- Frameworks: Vue.js, Node.js, Django, Bootstrap, React
+- Platforms: WordPress, Salesforce
+- Tools: Visual Studio, Git
 
 ---
 
 ### ❤️ VOLUNTEERING
-
-**Volunteer**  
-Sturbridge Little League  
-2021 - Present  
-- Volunteer Assistant Coach actively supporting youth athletes in skill development and fostering a positive team environment.
+- Assistant Coach - Sturbridge Little League
+Since 2021, I've been helping young athletes develop their skills and learn the value of teamwork.
 
 ---
 
 ### 📚 EDUCATION
 
-**Salem State University, Full Stack Software Developer**  
-2022 - 2024  
-- Honed abilities in front-end, back-end, and full-stack development through challenging exercises and hands-on projects. 98% final grade!
+**Salem State University**  
+- Full Stack Software Developer, 2022 - 2024
+Achieved a 98% final grade, mastering various development skills through intensive projects.
+
+**Briarwood College**
+- Studied Business Management for three years, gaining a deep understanding of business strategies and operational management.
 
 ---
