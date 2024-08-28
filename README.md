@@ -1,22 +1,20 @@
-## Nicole LeGuern - Driven Full-Stack Developer | Business Strategist | Award-Winning Sales and Client Relations Leader 🌟
+## Nicole LeGuern - Driven Business Analytical Developer 🌟
 
 ![Alt Text](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611jmlj3g3euiy1dj2kzvme84suyqp0d2wk2h9o5a8z&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-I'm Nicole, freshly graduated with a Proffesional Certificate in Full Stack Software Development from Salem State University with top honors and equipped with a multi toolkit in Python, JavaScript, SQL, HTML, CSS and more. Ready to tackle real-world software development challenges, I bring a proven track record of success in business growth, client relations, and technical problem-solving.
+I'm Nicole, freshly graduated with a Proffesional Certificate in Full Stack Software Development from Salem State University with top honors and equipped with a multi toolkit. Ready to tackle real-world software development challenges!
 
 ### 📬 Contact Information:
 - 🌐 LinkedIn: [Nicole LeGuern](https://www.linkedin.com/in/nicole-leguern-190389119)
 - 📧 Email: nicolenleguern@gmail.com
 - 💼 Github: [CodeQueenie](https://github.com/CodeQueenie)
-- 📍 Location: Sturbridge, MA
+- 📍 Location: Gardner, MA
 
 ---
 
 ### ✨ About Me
 
-I see coding not just as a career but as a way to make a real impact. I love creating solutions that streamline processes and improve experiences. Beyond coding, I'm passionate about health and wellness, an advocate for environmental and oceanic conservation, and an enthusiast of all things nature and outdoors. 🌿🏞️ I find balance in life through books 📚, culinary explorations 🍲, and being active in sports and outdoor adventures.
-
-Let’s connect to share insights, collaborate on projects, or just chat about life's passions!
+I love creating solutions that streamline processes and improve experiences. I'm passionate about health and wellness, an advocate for environmental and oceanic conservation, and an enthusiast of all things nature and outdoors. 🌿🏞️ I find balance in life through books 📚, culinary explorations 🍲, and being active in sports and outdoor adventures.
 
 ---
 
@@ -53,23 +51,12 @@ A collection of educational games designed to make learning fun and engaging:
 
 ---
 
-### 🌱 Fast Facts
-- A fast-learning developer who graduated with a 98% from Salem State University's intensive program. My 20+ years in client relations have honed my ability to manage projects and people effectively, ready to excel in an Agile development environment.
-
----
-
 ### 🔧 SKILLS
 
-- Coding Languages: JavaScript, Python, SQL, C++
+- Coding Languages: JavaScript, Python, SQL
 - Frameworks: Vue.js, Node.js, Django, Bootstrap, React
 - Platforms: WordPress, Salesforce
 - Tools: Visual Studio, Git
-
----
-
-### ❤️ VOLUNTEERING
-- Assistant Coach - Sturbridge Little League
-Since 2021, I've been helping young athletes develop their skills and learn the value of teamwork.
 
 ---
 
@@ -77,7 +64,6 @@ Since 2021, I've been helping young athletes develop their skills and learn the 
 
 **Salem State University**  
 - Full Stack Software Developer, 2022 - 2024
-Achieved a 98% final grade, mastering various development skills through intensive projects.
 
 **Briarwood College**
 - Studied Business Management for three years, gaining a deep understanding of business strategies and operational management.
