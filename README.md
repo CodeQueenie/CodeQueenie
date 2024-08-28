@@ -34,9 +34,9 @@ A collection of educational games designed to make learning fun and engaging:
 - Proficient in front-end frameworks, modern web technologies, and JavaScript frameworks. 
 - For more details, [Check it out! 👉](https://github.com/CodeQueenie/Play2Learn-with-New-Games-and-Implementation-of-Libraries)
 
-**Play2Learn Games: Implementing the Games with Python**  
+**Play2Learn Games: Implementing the Games**  
 08/2023  
-- Created console versions of games using Python.
+- Created console versions of games.
 - Backend programming proficiency demonstrated.
 - For more details, [Check it out! 👉](https://github.com/CodeQueenie/Play2Learn---Implementing-the-Games-with-Python)
 
@@ -53,7 +53,7 @@ A collection of educational games designed to make learning fun and engaging:
 
 ### 🔧 SKILLS
 
-- Coding Languages: JavaScript, Python, SQL
+- Coding Languages: JavaScript, 
 - Frameworks: Vue.js, Node.js, Django, Bootstrap, React
 - Platforms: WordPress, Salesforce
 - Tools: Visual Studio, Git
