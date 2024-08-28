@@ -2,7 +2,7 @@
 
 ![Alt Text](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611jmlj3g3euiy1dj2kzvme84suyqp0d2wk2h9o5a8z&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-I'm Nicole, freshly graduated with a Proffesional Certificate in Full Stack Software Development from Salem State University with top honors and equipped with a multi toolkit. Ready to tackle real-world software development challenges!
+I'm Nicole, I hold a Certificate in Full Stack Software Development from Salem State University and ready to tackle real-world business challenges and improve operations!
 
 ### 📬 Contact Information:
 - 🌐 LinkedIn: [Nicole LeGuern](https://www.linkedin.com/in/nicole-leguern-190389119)
