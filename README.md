@@ -1,8 +1,6 @@
-## Nicole LeGuern - Driven Business Analytical Developer 🌟
+## Nicole LeGuern - Driven Developer 🌟
 
 ![Alt Text](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611jmlj3g3euiy1dj2kzvme84suyqp0d2wk2h9o5a8z&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-
-I'm Nicole, I hold a Certificate in Full Stack Software Development from Salem State University and ready to tackle real-world business challenges and improve operations!
 
 ### 📬 Contact Information:
 - 🌐 LinkedIn: [Nicole LeGuern](https://www.linkedin.com/in/nicole-leguern-190389119)
@@ -14,7 +12,11 @@ I'm Nicole, I hold a Certificate in Full Stack Software Development from Salem S
 
 ### ✨ About Me
 
-I love creating solutions that streamline processes and improve experiences. I'm passionate about health and wellness, an advocate for environmental and oceanic conservation, and an enthusiast of all things nature and outdoors. 🌿🏞️ I find balance in life through books 📚, culinary explorations 🍲, and being active in sports and outdoor adventures.
+A driven tech enthusiast with a passion for innovation and lifelong learning. I'm committed to creating efficient and user-friendly solutions while leveraging data analysis to optimize processes and drive improvements.
+
+With a strong background in client relations and business operations, I have a proven track record of building positive relationships with stakeholders and ensuring smooth project execution.
+
+I'm seeking real-world opportunities to apply my skills and contribute to the success of dynamic teams!
 
 ---
 
@@ -34,13 +36,13 @@ A collection of educational games designed to make learning fun and engaging:
 - Proficient in front-end frameworks, modern web technologies, and JavaScript frameworks. 
 - For more details, [Check it out! 👉](https://github.com/CodeQueenie/Play2Learn-with-New-Games-and-Implementation-of-Libraries)
 
-**Play2Learn Games: Implementing the Games**  
+**Play2Learn Games: Implementing the Games with Python**  
 08/2023  
 - Created console versions of games.
 - Backend programming proficiency demonstrated.
 - For more details, [Check it out! 👉](https://github.com/CodeQueenie/Play2Learn---Implementing-the-Games-with-Python)
 
-**Play2Learn: Full Stack Web Application with Django and Vue.js**  
+**Play2Learn: Full Stack Web Application with Django, Vue.js and SQL**  
 01/2024  
 - Created an interactive full-stack web application using Django backend and Vue.js front-end.
 - Implemented user authentication, game playing functionalities, progress tracking, leaderboards, account 
@@ -53,10 +55,10 @@ A collection of educational games designed to make learning fun and engaging:
 
 ### 🔧 SKILLS
 
-- Coding Languages: JavaScript, 
+- Coding Languages: JavaScript, Python 
 - Frameworks: Vue.js, Node.js, Django, Bootstrap, React
 - Platforms: WordPress, Salesforce
-- Tools: Visual Studio, Git
+- Tools: Visual Studio, Git, SQL, SendGrid
 
 ---
 
