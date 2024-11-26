@@ -4,7 +4,7 @@
 
 ### 📬 Contact Information:
 - 🌐 LinkedIn: [Nicole LeGuern](https://www.linkedin.com/in/nicole-leguern-190389119)
-- 📧 Email: nicolenleguern@gmail.com
+- 📧 Email: nicoleleguern.pro@gmail.com
 - 💼 Github: [CodeQueenie](https://github.com/CodeQueenie)
 - 📍 Location: Gardner, MA
 
