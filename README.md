@@ -21,6 +21,8 @@ I bring 21+ years of experience across multiple customer-facing and operational 
 - **Full-Stack Development:** Built applications with front-end (HTML, CSS, JavaScript, Vue.js) and back-end (Django, SQL).  
 - **Prompt Engineering:** Optimized prompts for large language models (LLMs) to enhance AI-driven workflows.
 
+I’m currently finalizing my **PCEP certification** and will complete my **AI-powered data analytics training** in just a few weeks. I’m excited to find a role where I can blend my business experience with these new technical skills.
+
 I look forward to applying these skills on new projects, continuing to grow as a developer, and contributing to impactful initiatives. **Let's connect and collaborate!**
 
 ---
