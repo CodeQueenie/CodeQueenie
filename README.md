@@ -1,73 +1,60 @@
-## Nicole LeGuern - Driven Developer 🌟
+## Nicole LeGuern – Tech Enthusiast | Developer
+
+🌟 **Leveraging Python, AI, and full-stack development expertise gained through hands-on training and self-driven projects.**
 
 ![Alt Text](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611jmlj3g3euiy1dj2kzvme84suyqp0d2wk2h9o5a8z&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
-### 📬 Contact Information:
-- 🌐 LinkedIn: [Nicole LeGuern](https://www.linkedin.com/in/nicole-leguern-190389119)
-- 📧 Email: nicoleleguern.pro@gmail.com
-- 💼 Github: [CodeQueenie](https://github.com/CodeQueenie)
-- 📍 Location: Gardner, MA
+### 📬 Contact Information
+- 🌐 [LinkedIn](https://www.linkedin.com/in/nicoleleguern)
+- 💼 [GitHub](https://github.com/CodeQueenie)
+- 📧 [Email](mailto:nicoleleguern.pro@gmail.com)
 
 ---
 
 ### ✨ About Me
 
-A driven tech enthusiast with a passion for innovation and lifelong learning. I'm committed to creating efficient and user-friendly solutions while leveraging data analysis to optimize processes and drive improvements.
+I bring 21+ years of experience across multiple customer-facing and operational roles, and I’ve dedicated myself to mastering modern tech. Through intensive coursework and personal projects, I've built strong foundations in:
 
-With a strong background in client relations and business operations, I have a proven track record of building positive relationships with stakeholders and ensuring smooth project execution.
+- **AI-Powered Data Science:** Hands-on proficiency with Python, SQL, NumPy, Pandas, Scikit-learn, and generative AI tools (ChatGPT, LangChain, Gemma, Ollama).  
+- **API Integrations:** Worked on API endpoints and explored design principles via training and open-source contributions.  
+- **Google Cloud Platform (GCP):** Leveraged GCP for data analytics and scalable hosting environments.  
+- **Full-Stack Development:** Built applications with front-end (HTML, CSS, JavaScript, Vue.js) and back-end (Django, SQL).  
+- **Prompt Engineering:** Optimized prompts for large language models (LLMs) to enhance AI-driven workflows.
 
-I'm seeking real-world opportunities to apply my skills and contribute to the success of dynamic teams!
+I look forward to applying these skills on new projects, continuing to grow as a developer, and contributing to impactful initiatives. **Let's connect and collaborate!**
 
 ---
 
-### 💡 PROJECTS
-Play2Learn Series
-A collection of educational games designed to make learning fun and engaging:
+### 💡 Explore My Work
+Discover my full list of repositories on [GitHub](https://github.com/CodeQueenie?tab=repositories), featuring:
 
-**Play2Learn: Website**  
-12/2022  
-- Front-end development using HTML, CSS, and JavaScript.
-- Created interactive educational game - Math Facts Practice.
-- For more details, [Check it out! 👉](https://github.com/CodeQueenie/Play2Learn-Website)
-
-**Play2Learn: New Game and Implementation of Libraries**  
-04/2023  
-- Integrated Bootstrap for responsive layouts and Vue.js for the Anagram Hunt game.
-- Proficient in front-end frameworks, modern web technologies, and JavaScript frameworks. 
-- For more details, [Check it out! 👉](https://github.com/CodeQueenie/Play2Learn-with-New-Games-and-Implementation-of-Libraries)
-
-**Play2Learn Games: Implementing the Games with Python**  
-08/2023  
-- Created console versions of games.
-- Backend programming proficiency demonstrated.
-- For more details, [Check it out! 👉](https://github.com/CodeQueenie/Play2Learn---Implementing-the-Games-with-Python)
-
-**Play2Learn: Full Stack Web Application with Django, Vue.js and SQL**  
-01/2024  
-- Created an interactive full-stack web application using Django backend and Vue.js front-end.
-- Implemented user authentication, game playing functionalities, progress tracking, leaderboards, account 
-  management, and reviews on the website.
-- Leveraged HTML, CSS, JavaScript, Python, Django, Vue.js, and Bootstrap for project development.
-- Employed a PostgreSQL database for data storage and opted for a development/debug mode setup.
-- For more details, [Check it out! 👉](https://github.com/CodeQueenie/Play2Learn-Full-Stack-Website-Django-Vue)
+- **Learning Projects:** Original builds and forks exploring new technologies.  
+- **AI & Data Science:** Python-based data analysis and experiments with generative AI tools.  
+- **LLM-Powered Solutions:** Prompt engineering and LangChain-driven workflows.  
+- **Full-Stack Applications:** Web apps emphasizing user-centric design and best practices.
 
 ---
 
 ### 🔧 SKILLS
 
-- Coding Languages: JavaScript, Python 
-- Frameworks: Vue.js, Node.js, Django, Bootstrap, React
-- Platforms: WordPress, Salesforce
-- Tools: Visual Studio, Git, SQL, SendGrid
+- **Languages:** Python, JavaScript, SQL  
+- **Frameworks & Tools:** Vue.js, Node.js, React, Django, Bootstrap, LangChain, Gemma  
+- **AI Exploration:** LLMs (ChatGPT, Ollama), Prompt Engineering  
+- **Cloud Platforms:** Google Cloud Platform (GCP)  
+- **API Work:** Integration and experimentation through diverse learning projects  
+- **Data Science:** NumPy, Pandas, Scikit-learn, Data Visualization  
+- **Platforms:** WordPress, Salesforce  
+- **Tools:** Visual Studio, Git, SQL, SendGrid  
 
 ---
 
 ### 📚 EDUCATION
 
+**Network Technology Academy Institute**  
+- AI-Powered Business & Data Analytics Specialist *(Nov 2024 – Feb 2025)*
+
 **Salem State University**  
-- Full Stack Software Developer, 2022 - 2024
+- Full Stack Software Developer *(2022 – 2024)*
 
-**Briarwood College**
-- Studied Business Management for three years, gaining a deep understanding of business strategies and operational management.
-
----
+**Briarwood College**  
+- Business Administration & Management *(2001 – 2004)*
