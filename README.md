@@ -53,7 +53,7 @@ Discover my full list of repositories on [GitHub](https://github.com/CodeQueenie
 ### 📚 EDUCATION
 
 **Network Technology Academy Institute**  
-- AI-Powered Business & Data Analytics Specialist *(Nov 2024 – Feb 2025)*
+- AI-Powered Business & Data Analytics Specialist *(2024 – March 2025)*
 
 **Salem State University**  
 - Full Stack Software Developer *(2022 – 2024)*
