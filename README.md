@@ -13,7 +13,7 @@
 
 ### ✨ About Me
 
-Hi, I'm Nicole. With over 15 years of leadership in operations and business management, I now combine my extensive hands-on experience with a passion for data analytics, AI, and automation. I specialize in transforming raw data into actionable insights and optimizing business processes to drive efficiency and growth. Whether I’m building predictive models, automating workflows, or creating dynamic dashboards, I enjoy solving complex challenges that support strategic decision-making. Currently, I’m focused on AI-powered business solutions, completing my Python (PCEP) certification, and expanding my expertise in data analytics.
+With over 15 years of experience in operations, payroll, and finance, I've developed a deep passion for data science, AI, and automation. I thrive on transforming complex data into actionable insights using Python and SQL. I lead teams and collaborate on projects to drive meaningful business outcomes. Explore my projects to see how I turn data into decisions and innovation into results.
 
 ---
 
