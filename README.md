@@ -21,6 +21,7 @@ With over 15 years of experience in operations, payroll, and finance, I've devel
 
 For a full list of projects, please visit my [GitHub repositories](https://github.com/CodeQueenie?tab=repositories).
 
+- **LLM-Powered Clinical Test Extraction Pipeline:** Extracts structured clinical data from medical notes using LLMs (GPT-4, Claude) with a FastAPI backend.
 - **Statistical A/B Testing:** Framework for data-driven decision making.
 - **Fraud Detection System:** Machine learning-based system to identify fraudulent transactions.
 - **HigherEd Payroll Audit System:** Python-based tool for payroll reconciliation and compliance auditing in higher education.
