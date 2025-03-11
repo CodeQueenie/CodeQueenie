@@ -1,11 +1,11 @@
-## Nicole LeGuern – Operations & Data Analytics Leader | AI & Automation Specialist
+## Nicole LeGuern – Transforming Business with AI & Data
 
-🌟 **Leveraging technology to drive operational excellence, data-driven insights, and innovative business solutions.**
+🌟 **Building automated solutions that enhance decision-making, operational efficiency, and competitive advantage.**
 
 ![Alt Text](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611jmlj3g3euiy1dj2kzvme84suyqp0d2wk2h9o5a8z&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ### 📬 Connect With Me
-- 🌐 [Portfolio Website](https://codequeenie.github.io/personal_website/)
+- 🌐 [Portfolio Website](https://codequeenie.github.io/pro/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nicole-leguern)
 - 📧 [Email](mailto:nicoleleguern.pro@gmail.com)
 
@@ -13,7 +13,22 @@
 
 ### ✨ About Me
 
-With over 15 years of experience in operations, payroll, and finance, I've developed a deep passion for data science, AI, and automation. I thrive on transforming complex data into actionable insights using Python and SQL. I lead teams and collaborate on projects to drive meaningful business outcomes. Explore my projects to see how I turn data into decisions and innovation into results.
+Results driven engineer and analytics specialist, highly skilled in AI Engineering & Machine Learning, Business Intelligence & Predictive Analytics, and Data Automation & Workflow Optimization. 
+
+**Specializing in:**
+
+- Leading high-impact technical projects
+- Building analytical systems that significantly enhance organizational performance
+- Translating complex insights into actionable strategies to boost profitability and competitive advantage
+
+---
+
+### 💡 Core Competencies
+
+- **AI & Machine Learning:** Building and deploying scalable AI systems to automate workflows, optimize processes, and enhance data accuracy across diverse industries.
+- **Business Intelligence:** Creating dynamic, intuitive dashboards and analytical solutions that turn raw data into actionable insights and strategic business outcomes.
+- **Automation Engineering:** Developing and implementing automation strategies that reduce manual workloads, increase accuracy, and enable teams to focus on strategic tasks.
+- **Data Analytics:** Utilizing Python, SQL, and modern data visualization tools to extract insights, identify trends, and drive strategic decision-making.
 
 ---
 
@@ -33,21 +48,22 @@ For a full list of projects, please visit my [GitHub repositories](https://githu
 
 ---
 
-### 🔧 Skills
+### 🔧 Technical Skills
 
-- **Data Analytics & Business Intelligence:** Python, SQL, Data Visualization, Predictive Modeling, Statistical Analysis
-- **Automation & AI:** Workflow Automation, Machine Learning Fundamentals, AI-Driven Insights
-- **Operations & Process Optimization:** Payroll & HR Administration, Regulatory Compliance, Advanced Excel
-- **Technology & Systems:** Salesforce, ADP, Microsoft Office, HR/Payroll Databases
-- **Leadership & Project Management:** Team Leadership, Cross-Functional Collaboration, Agile Methodologies
+- **Languages & Tools:** Python, SQL, JavaScript, HTML/CSS, Git, API Integration, Data Modeling, JSON Data Processing
+- **AI & ML:** NLP, LLM (GPT-4, Gemini), TensorFlow, Scikit-learn, LangChain, Prompt Engineering, NumPy, Pandas, Computer Vision, RAG Systems
+- **Cloud & Platforms:** Salesforce, Google Cloud Platform, AWS, GCP, WordPress, Financial APIs, CRM Systems, ERP Integration
+- **Frameworks:** FastAPI, Streamlit, Flask, Django, React
+- **Databases & Data:** PostgreSQL, MySQL, Tableau, Power BI, JSON, ETL, Data Pipelines, Database Design & Optimization, Data Visualization & Dashboards, KPI Development & Tracking, Predictive Analytics, Statistical Analysis
+- **Operations Management:** Process Optimization, Workflow Automation, Team Leadership, Regulatory Compliance, Payroll Administration, Financial Reconciliation, Audit Compliance, Business Requirements Analysis, Report Generation & Automation
 
 ---
 
 ### 📚 Education & Certifications
 
-- **Network Technology Academy Institute (Remote)**  
-  Certificate, AI-Powered Business & Data Analytics Specialist (2024 – March 2025)
-- **Salem State University (Remote)**  
-  Certificate, Full Stack Software Developer (2022 – 2024)
-- **Briarwood College – Southington, CT**  
-  Associate’s Degree in Business Administration & Management (2001 – 2004)
+- **Network Technology Academy Institute**  
+  AI-Powered Business & Data Analytics Specialist (2024 – March 2025)
+- **Salem State University**  
+  Full Stack Software Developer (2022 – 2024)
+- **Briarwood College**  
+  Associate's, Business Administration & Management (2001 – 2004)
