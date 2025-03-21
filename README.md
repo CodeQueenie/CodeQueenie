@@ -6,7 +6,7 @@
 
 ### 📬 Connect With Me
 - 🌐 [Portfolio](https://codequeenie.github.io/pro/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/nicole-leguern)
+- 💼 [LinkedIn](https://www.linkedin.com/in/nicoleleguern/)
 - 📧 [Email](mailto:nicoleleguern.pro@gmail.com)
 
 ---
@@ -35,7 +35,9 @@ For detailed insights and full repositories, visit my [GitHub Repositories](http
 - **[Aesthetic Lens](https://github.com/CodeQueenie/AestheticLens-AI-Image-Scoring-Tool):** AI-driven image aesthetic scoring tool leveraging TensorFlow and NIMA architecture.
 - **[Clinical Text Extraction Pipeline](https://github.com/CodeQueenie/LLM-Powered_Clinical_Test_Extraction_Pipeline):** NLP pipeline using GPT-4 to transform unstructured clinical notes into structured data.
 - **[TrendVisor Dashboard](https://github.com/CodeQueenie/TrendVisor---Dynamic_Metrics_Dashboard_for_Trend_Prediction):** Dynamic analytics dashboard for forecasting and trend analysis with Plotly, Flask, and Prophet.
-- **[AI Interview Mastery Trainer](https://github.com/CodeQueenie/AI_Interview_Mastery_Trainer):** Interactive platform leveraging AI to help users master interview skills through real-time feedback and recommendations.
+- **[March Machine Learning Mania 2025](https://github.com/CodeQueenie/march_mania_2025):** Predictive analytics project using Random Forest modeling to forecast NCAA basketball outcomes.
+- **[Customer Review Sentiment Analysis](https://github.com/CodeQueenie/Customer_Review_Sentiment_Analysis):** NLP-based tool for sentiment analysis on customer feedback to guide strategic business decisions.
+- **[Weekly Wellness Newsletter Generator](https://github.com/CodeQueenie/Weekly_Wellness_Newsletter_Generator):** Automated Flask application generating personalized wellness newsletters through curated content.
 
 ---
 
