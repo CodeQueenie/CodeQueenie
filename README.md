@@ -1,69 +1,52 @@
-## Nicole LeGuern – Transforming Business with AI & Data
+## Nicole LeGuern – Building Intelligent Solutions with AI & Automation
 
-🌟 **Building automated solutions that enhance decision-making, operational efficiency, and competitive advantage.**
+✨ **I build intelligent software solutions powered by AI and automation—turning data into strategic advantage and measurable results.**
 
 ![Alt Text](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611jmlj3g3euiy1dj2kzvme84suyqp0d2wk2h9o5a8z&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ### 📬 Connect With Me
-- 🌐 [Portfolio Website](https://codequeenie.github.io/pro/)
+- 🌐 [Portfolio](https://codequeenie.github.io/pro/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nicole-leguern)
 - 📧 [Email](mailto:nicoleleguern.pro@gmail.com)
 
 ---
 
-### ✨ About Me
+### 👩‍💻 About Me
 
-Results driven engineer and analytics specialist, highly skilled in AI Engineering & Machine Learning, Business Intelligence & Predictive Analytics, and Data Automation & Workflow Optimization. 
-
-**Specializing in:**
-
-- Leading high-impact technical projects
-- Building analytical systems that significantly enhance organizational performance
-- Translating complex insights into actionable strategies to boost profitability and competitive advantage
+I'm a certified AI & Data Analytics Specialist experienced in developing scalable applications and automation solutions using Python, SQL, Machine Learning, and modern cloud technologies. With a strong foundation in full-stack software development and a background in operations management, I deliver practical solutions that enhance performance, efficiency, and strategic decision-making.
 
 ---
 
 ### 💡 Core Competencies
 
-- **AI & Machine Learning:** Building and deploying scalable AI systems to automate workflows, optimize processes, and enhance data accuracy across diverse industries.
-- **Business Intelligence:** Creating dynamic, intuitive dashboards and analytical solutions that turn raw data into actionable insights and strategic business outcomes.
-- **Automation Engineering:** Developing and implementing automation strategies that reduce manual workloads, increase accuracy, and enable teams to focus on strategic tasks.
-- **Data Analytics:** Utilizing Python, SQL, and modern data visualization tools to extract insights, identify trends, and drive strategic decision-making.
+- **AI & Machine Learning:** NLP, Large Language Models (GPT-4, Gemini), LangChain, TensorFlow, Scikit-learn, Computer Vision
+- **Data Analytics:** Data Visualization (Tableau, Power BI), Predictive Analytics, Statistical Modeling, Data Pipelines
+- **Full Stack Development:** Python, JavaScript, SQL, HTML/CSS, FastAPI, Flask, Django, React
+- **Automation Engineering:** Workflow Automation, CI/CD, MLOps, Process Optimization
+- **Cloud & DevOps:** AWS, Google Cloud Platform, Docker, Git/GitHub, API Integration
 
 ---
 
-### 💡 Featured Projects
+### 🚀 Featured Projects
 
-For a full list of projects, please visit my [GitHub repositories](https://github.com/CodeQueenie?tab=repositories).
+For detailed insights and full repositories, visit my [GitHub Repositories](https://github.com/CodeQueenie?tab=repositories).
 
-- **LLM-Powered Clinical Test Extraction Pipeline:** Extracts structured clinical data from medical notes using LLMs (GPT-4, Claude) with a FastAPI backend.
-- **Statistical A/B Testing:** Framework for data-driven decision making.
-- **Fraud Detection System:** Machine learning-based system to identify fraudulent transactions.
-- **HigherEd Payroll Audit System:** Python-based tool for payroll reconciliation and compliance auditing in higher education.
-- **Weekly Wellness Newsletter Generator:** Flask app that curates and distributes wellness content.
-- **Cryptocurrency Price Tracker:** Real-time tracker that fetches data via the CoinGecko API and visualizes it using SQL and Python.
-- **Customer Review Sentiment Analysis:** NLP-driven analysis to extract sentiment from customer reviews.
-- **MNIST Digit Classifier:** Machine learning project using a convolutional neural network for handwritten digit recognition.
-- **March Machine Learning Mania 2025:** Predictive modeling for NCAA tournaments using Random Forests, SQL for data management, and Streamlit for interactive dashboards.
-
----
-
-### 🔧 Technical Skills
-
-- **Languages & Tools:** Python, SQL, JavaScript, HTML/CSS, Git, API Integration, Data Modeling, JSON Data Processing
-- **AI & ML:** NLP, LLM (GPT-4, Gemini), TensorFlow, Scikit-learn, LangChain, Prompt Engineering, NumPy, Pandas, Computer Vision, RAG Systems
-- **Cloud & Platforms:** Salesforce, Google Cloud Platform, AWS, GCP, WordPress, Financial APIs, CRM Systems, ERP Integration
-- **Frameworks:** FastAPI, Streamlit, Flask, Django, React
-- **Databases & Data:** PostgreSQL, MySQL, Tableau, Power BI, JSON, ETL, Data Pipelines, Database Design & Optimization, Data Visualization & Dashboards, KPI Development & Tracking, Predictive Analytics, Statistical Analysis
-- **Operations Management:** Process Optimization, Workflow Automation, Team Leadership, Regulatory Compliance, Payroll Administration, Financial Reconciliation, Audit Compliance, Business Requirements Analysis, Report Generation & Automation
+- **[InspireSearch](https://github.com/CodeQueenie/InspireSearch---AI_Powered_Visual_Search_Engine):** AI-powered visual search application with ResNet50 embeddings and Flask backend.
+- **[Aesthetic Lens](https://github.com/CodeQueenie/AestheticLens-AI-Image-Scoring-Tool):** AI-driven image aesthetic scoring tool leveraging TensorFlow and NIMA architecture.
+- **[Clinical Text Extraction Pipeline](https://github.com/CodeQueenie/LLM-Powered_Clinical_Test_Extraction_Pipeline):** NLP pipeline using GPT-4 to transform unstructured clinical notes into structured data.
+- **[TrendVisor Dashboard](https://github.com/CodeQueenie/TrendVisor---Dynamic_Metrics_Dashboard_for_Trend_Prediction):** Dynamic analytics dashboard for forecasting and trend analysis with Plotly, Flask, and Prophet.
+- **[AI Interview Mastery Trainer](https://github.com/CodeQueenie/AI_Interview_Mastery_Trainer):** Interactive platform leveraging AI to help users master interview skills through real-time feedback and recommendations.
 
 ---
 
 ### 📚 Education & Certifications
 
-- **Network Technology Academy Institute**  
-  AI-Powered Business & Data Analytics Specialist (2024 – March 2025)
-- **Salem State University**  
-  Full Stack Software Developer (2022 – 2024)
-- **Briarwood College**  
-  Associate's, Business Administration & Management (2001 – 2004)
+- **Network Technology Academy Institute**
+  - Certificate: AI-Powered Business & Data Analytics Specialist (Nov 2024 – Mar 2025)
+  - Certification: PCEP Python (Python Institute, Mar 2025)
+
+- **Salem State University**
+  - Certificate: Full Stack Software Developer (Jun 2022 – Apr 2024)
+
+- **Briarwood College**
+  - Associate's Degree: Business Administration & Management (Jun 2001 – May 2004)
