@@ -1,4 +1,4 @@
-## Nicole LeGuern – Building Intelligent Solutions with AI & Automation
+## Nicole LeGuern – Building Intelligent Solutions
 
 ✨ **I build intelligent software solutions powered by AI and automation—turning data into strategic advantage and measurable results.**
 
@@ -13,7 +13,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a certified AI & Data Analytics Specialist experienced in developing scalable applications and automation solutions using Python, SQL, Machine Learning, and modern cloud technologies. With a strong foundation in full-stack software development and a background in operations management, I deliver practical solutions that enhance performance, efficiency, and strategic decision-making.
+I'm a certified AI & Data Analytics Specialist experienced in developing scalable applications and automation solutions using Python, SQL, Machine Learning, and modern cloud technologies. Specializing in custom Python applications that enhance decision-making, streamline operations, and create competitive advantage. With a strong foundation in operations management and a background in full-stack software development, I deliver practical solutions that enhance performance, profit, efficiency.
 
 ---
 
