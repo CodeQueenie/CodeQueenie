@@ -1,6 +1,6 @@
-## Nicole LeGuern – Building Intelligent Solutions
+## Nicole LeGuern
 
-✨ **I build intelligent software solutions powered by AI and automation—turning data into strategic advantage and measurable results.**
+✨ **I build intelligent software solutions powered by AI and automation.**
 
 ![Alt Text](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611jmlj3g3euiy1dj2kzvme84suyqp0d2wk2h9o5a8z&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
