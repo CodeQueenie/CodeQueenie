@@ -29,7 +29,7 @@ I'm a certified AI & Data Analytics Specialist experienced in developing scalabl
 
 ### 🚀 Featured Projects
 
-For detailed insights and full repositories, visit my [GitHub Repositories](https://github.com/CodeQueenie?tab=repositories).
+For detailed insights and full list of projects, visit my [GitHub Repositories](https://github.com/CodeQueenie?tab=repositories).
 
 - **[InspireSearch](https://github.com/CodeQueenie/InspireSearch---AI_Powered_Visual_Search_Engine):** AI-powered visual search application with ResNet50 embeddings and Flask backend.
 - **[Aesthetic Lens](https://github.com/CodeQueenie/AestheticLens-AI-Image-Scoring-Tool):** AI-driven image aesthetic scoring tool leveraging TensorFlow and NIMA architecture.
