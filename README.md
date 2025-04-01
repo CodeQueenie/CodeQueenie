@@ -1,6 +1,6 @@
 ## Nicole LeGuern
 
-✨ **Passionate About Delivering Efficient, Data-Driven Solutions.**
+✨ **Passionate About Delivering Efficient, Impactful Solutions.**
 
 ![Alt Text](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=790b7611jmlj3g3euiy1dj2kzvme84suyqp0d2wk2h9o5a8z&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
