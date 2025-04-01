@@ -31,12 +31,12 @@ I'm a certified AI & Data Analytics Specialist experienced in developing scalabl
 
 For detailed insights and full list of projects, visit my [GitHub Repositories](https://github.com/CodeQueenie?tab=repositories).
 
-- **[InspireSearch](https://github.com/CodeQueenie/InspireSearch---AI_Powered_Visual_Search_Engine):** AI-powered visual search application with ResNet50 embeddings and Flask backend.
+- **[InspireSearch](https://github.com/CodeQueenie/InspireSearch---AI_Powered_Visual_Search_Engine):** Created a visual search engine using deep learning to find similar images based on user input. Integrated TensorFlow and Faiss for high-performance vector search.
 - **[Aesthetic Lens](https://github.com/CodeQueenie/AestheticLens-AI-Image-Scoring-Tool):** AI-driven image aesthetic scoring tool leveraging TensorFlow and NIMA architecture.
 - **[Clinical Text Extraction Pipeline](https://github.com/CodeQueenie/LLM-Powered_Clinical_Test_Extraction_Pipeline):** NLP pipeline using GPT-4 to transform unstructured clinical notes into structured data.
 - **[TrendVisor Dashboard](https://github.com/CodeQueenie/TrendVisor---Dynamic_Metrics_Dashboard_for_Trend_Prediction):** Dynamic analytics dashboard for forecasting and trend analysis with Plotly, Flask, and Prophet.
 - **[March Machine Learning Mania 2025](https://github.com/CodeQueenie/march_mania_2025):** Predictive analytics project using Random Forest modeling to forecast NCAA basketball outcomes.
-- **[Customer Review Sentiment Analysis](https://github.com/CodeQueenie/Customer_Review_Sentiment_Analysis):** NLP-based tool for sentiment analysis on customer feedback to guide strategic business decisions.
+- **[Customer Review Sentiment Analysis](https://github.com/CodeQueenie/Customer_Review_Sentiment_Analysis):** Developed an NLP tool for classifying customer feedback into sentiment categories, helping businesses understand customer opinions and make improvements.
 - **[Weekly Wellness Newsletter Generator](https://github.com/CodeQueenie/Weekly_Wellness_Newsletter_Generator):** Automated Flask application generating personalized wellness newsletters through curated content.
 
 ---
