@@ -13,7 +13,7 @@
 
 ### 👩‍💻 About Me
 
-I'm a certified AI & Data Analytics Specialist experienced in developing scalable applications and automation solutions using Python, SQL, Machine Learning, and modern cloud technologies. Specializing in custom Python applications that enhance decision-making, streamline operations, and create competitive advantage.
+Innovative professional specializing in Python, automation, and data analytics. I build efficient, user-centric solutions that optimize business processes and deliver impactful results. Check out my projects below to see how I leverage automation and data insights to drive efficiency.
 
 ---
 
