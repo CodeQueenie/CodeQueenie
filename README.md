@@ -17,7 +17,7 @@ I’m a business and data specialist with a deep background in leadership, clien
 
 I combine business insight with tools like Python, SQL, FastAPI, and AI platforms to build smarter workflows and optimize decision-making. My work spans everything from automating reports to structuring messy data with LLMs.
 
-🔹 Built 20+ AI-powered projects across automation, analytics, and backend systems  
+🔹 Built 20+ AI-powered applications across automation, analytics, and backend systems  
 🔹 Led 50+ person teams and turned around underperforming operations  
 🔹 Passionate about building tools that help people work better, not harder
 
