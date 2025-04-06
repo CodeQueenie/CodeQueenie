@@ -13,7 +13,7 @@
 
 ### 👩‍💻 About Me
 
-I’m an operations and data specialist with a deep background in leadership, client success, and business optimization. After years of managing teams and streamlining systems, I leaned into my passion for tech—learning to build smarter workflows and scalable solutions through automation and analytics.
+I’m a business and data specialist with a deep background in leadership, client success, and business optimization. After years of managing teams and streamlining systems, I leaned into my passion for tech—learning to build smarter workflows and scalable solutions through automation and analytics.
 
 I combine business insight with tools like Python, SQL, FastAPI, and AI platforms to build smarter workflows and optimize decision-making. My work spans everything from automating reports to structuring messy data with LLMs.
 
