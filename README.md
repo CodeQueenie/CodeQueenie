@@ -1,7 +1,7 @@
 <h1 align="center">🤖 Nicole LeGuern</h1>
-<h3 align="center">✨ AI-Powered Builder | Clean Systems. Scalable Code. Real-World Results.</h3>
-
-<p align="center">
+<h3 align="center">✨ AI-Powered Developer 
+  
+- <p align="center">
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmJscnRlaHFnbGtvYXEwd3dyemUxM2FrbGV5bmozZ3l6aDIzdmc4YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v0AtCQs1uLYcHMfj9r/giphy.gif" width="450" />
 </p>
 
